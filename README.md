@@ -74,7 +74,7 @@
 
 ![Решение 2](https://github.com/noisy441/FHRP/blob/main/img/img5.png)
 
-Наблюдаем как меняется BACKUP и MASTER в зависимотси от наличия файла index.nginx-debian.html на первой VM
+Наблюдаем как меняется BACKUP и MASTER на второй машине в зависимотси от наличия файла index.nginx-debian.html на первой VM
 
 ![Решение 2](https://github.com/noisy441/FHRP/blob/main/img/img6.png)
 
