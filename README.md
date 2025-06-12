@@ -70,9 +70,13 @@
 
 [check_port_and_page.sh](2_task/check_port_and_page.sh)
 
-![Переименовываем файл для того чтобы сработал скрипт](https://github.com/noisy441/FHRP/blob/main/img/img5.png)
+Переименовываем файл для того чтобы сработал скрипт
 
-![Наблюдаем как меняется BACKUP и MASTER в зависимотси от наличия файла index.nginx-debian.html на первой VM ](https://github.com/noisy441/FHRP/blob/main/img/img6.png)
+![Решение 2](https://github.com/noisy441/FHRP/blob/main/img/img5.png)
+
+Наблюдаем как меняется BACKUP и MASTER в зависимотси от наличия файла index.nginx-debian.html на первой VM
+
+![Решение 2](https://github.com/noisy441/FHRP/blob/main/img/img6.png)
 
 ------
 
